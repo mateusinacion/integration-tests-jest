@@ -4,7 +4,11 @@
 
 ## GitHub Actions
 
-[![Node.js CI](https://github.com/ugioni/integration-tests-jest/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/ugioni/integration-tests-jest/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/mateusinacion/integration-tests-jest/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/mateusinacion/integration-tests-jest/actions/workflows/node.js.yml)
+
+## SonarCloud
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mateusinacion_integration-tests-jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mateusinacion_integration-tests-jest)
 
 # Getting Started
 
